@@ -1,3 +1,3 @@
-# Coding-Learning-Personal
-Only Access to admin,
+# Coding-Learning
+Only Basic and learning Code,
 Coding trial and errorapproches 
