@@ -96,7 +96,7 @@ void Calulator_addition()
         total=total+number;
         k=k+1;
     }
-    cout<<"Sum of numbers = \n"<<total;
+    cout<<"Sum of numbers entered is = \n"<<total;
 }
  
 void Calulator_subtraction()
@@ -107,7 +107,7 @@ void Calulator_subtraction()
     cout<<"Please enter second number : "; 
     cin>>b; 
     c = a - b; 
-    cout<<"\n num1 - num2 = \n"<<c; 
+    cout<<"\n"<<a<<"- "<<b<< "="<<c; 
 }
  
 void Calulator_multiplication()
@@ -159,7 +159,7 @@ void Calulator_power()
  
     p=pow(a,num);
  
-    cout<<"\n to the power =  \n"<<p;
+    cout<<"\n "<<a<<" to the power "<<num<<"= "<<p;
 }
  
 int Calulator_factorial()
