@@ -3,7 +3,6 @@
 #include<math.h>
 #include<stdlib.h>
 #define KEY "Enter the Calculator Operation you want to Perform:"
-#define Add 1
 void Calulator_addition();
 void Calulator_subtraction();
 void Calulator_multiplication();
