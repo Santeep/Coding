@@ -3,5 +3,13 @@ After every code is executed succesfully it will be updated in this Folder.
 The code is executed in DEV C++ and Code::Block Software.
 -(Santeep G)
 **************************************************************
-1. Hello World ( Simple Basic Program).
-2. Calculator Program.( Comprises of all the basic I/O operation. Matematical Operation, Functions and Conditional operators ).
+1.Hello World ( Simple Basic Program).
+2.Calculator Program.( Comprises of all the basic I/O operation. Matematical Operation, Functions and Conditional operators ).
+3.Bubble Sort
+4.Employee details.
+5.Grocery Calculator.
+6.Concatinating numbers.
+7.Largest Number
+8.Round Robin
+9.Shirt Colour
+
