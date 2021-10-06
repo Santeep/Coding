@@ -6,7 +6,7 @@ class frequency_Character
     {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter any Sentance or any Paragraph : ");
-        String s = sc.next().toLowerCase();
+        String s = sc.nextLine().toLowerCase();
         System.out.print("Enter a character to count its frequency in : [" + s + "] : ");
         char c = sc.next(".").toLowerCase().charAt(0);
         int count = 0;
